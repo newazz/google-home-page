@@ -1,2 +1,2 @@
 console.log('Hello World');
-//my name is newaz edited  by master
+//my name is himu edited by newaz
